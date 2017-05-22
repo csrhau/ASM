@@ -1,3 +1,5 @@
+; https://www.tutorialspoint.com/assembly_programming/assembly_basic_syntax.htm
+
 section     .text
 global      _start                     ;must be declared for linker (ld)
 
